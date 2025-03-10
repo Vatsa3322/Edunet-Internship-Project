@@ -1,0 +1,17 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+tensorflow
+torch
+torchvision
+scipy
+joblib
+xgboost
+lightgbm
+catboost
+requests
